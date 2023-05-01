@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+.title
+{
+    color: #e4c20cf7;
+    font-size: 5vw;
+    font-family: "Poppins",sans-serif;
+    word-spacing: 1px;
+}
+.header
+{
+    margin: auto;
+    text-align: center;
+    margin-top: 5px;
+}
+@media only screen and (max-width: 600px) {
+    .title{
+        font-size: 5vw;
+    }
+  }

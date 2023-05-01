@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: inherit;
+    color: inherit;
+}
+body{
+    background-image: url('../public/bg.jpg');
+}
+.app{
+    min-height: 98.5vh;
+    border: 8px solid #e4c20cf7;
+    margin: 5px;
+}
+@media (max-width:800px) {
+    .app{
+        
+    }
+}
