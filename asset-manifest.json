@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KBC-react/static/css/main.60b6029f.css",
+    "main.js": "/KBC-react/static/js/main.7308d6f8.js",
+    "static/media/bg.jpg": "/KBC-react/static/media/bg.81e27ed61f68d880be9c.jpg",
+    "static/media/home_ban.webp": "/KBC-react/static/media/home_ban.474fa3bcda2524b594ac.webp",
+    "index.html": "/KBC-react/index.html",
+    "main.60b6029f.css.map": "/KBC-react/static/css/main.60b6029f.css.map",
+    "main.7308d6f8.js.map": "/KBC-react/static/js/main.7308d6f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b6029f.css",
+    "static/js/main.7308d6f8.js"
+  ]
+}
